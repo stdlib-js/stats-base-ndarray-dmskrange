@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Calculate the [range][range] of one-dimensional double-precision floating-point ndarray according to a mask.
+> Calculate the [range][range] of a one-dimensional double-precision floating-point ndarray according to a mask.
 
 <section class="intro">
 
